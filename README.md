@@ -1,19 +1,21 @@
 # ytb2audiobot-view
 ytb2audiobot-view
 
-# 🔐 Privacy
-
-# Usage
+## 🔐 Privacy
 
 
-## In Bot
 
-## In Channels
-
-# Hints
+## Usage
 
 
-# Install
+### In Bot
+
+### In Channels
+
+## Usage Hints
+
+
+## Install
 
 
 
