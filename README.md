@@ -16,8 +16,27 @@ ytb2audiobot-view
 
 ## Usage
 
+### Inside the Bot
 
-### In Bot
+Send any youtube link to movie. Видео станет загружаться сразу автоматически.
+
+В диалоговом окне покажется примерное время загрузки. 
+
+После успешной обрботки и загрузки в телеграм диалоговое окно будет удалено
+
+#### Split param 
+
+split
+
+#### Subtitles param 
+
+subtitles
+
+#### Bitrate param 
+
+subtitles
+
+
 
 ### In Channels
 
@@ -25,6 +44,36 @@ ytb2audiobot-view
 
 
 ## Install
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
