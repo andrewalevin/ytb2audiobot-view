@@ -28,10 +28,7 @@ Send any youtube link to movie. Видео станет загружаться �
 
 В Телеграме можно удобно прослушивать аудио файл, переходя по ссылкам таймкмодов.
 
-![photo_2024-07-06 04 19 38](https://github.com/andrewalevin/ytb2audiobot-view/assets/155118488/3f7f7b31-bb1d-41b9-b4cf-fc04a12d0679)
-
-![photo_2024-07-06 04 19 39](https://github.com/andrewalevin/ytb2audiobot-view/assets/155118488/9a1e48ae-ea50-41da-9520-526d28ce93a5)
-
+![photo-1-640](https://github.com/andrewalevin/ytb2audiobot-view/assets/155118488/989f29e7-03d9-46fe-a85d-764b4599d641)
 
 
 ##### Hint 
