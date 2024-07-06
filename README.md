@@ -62,7 +62,7 @@ subtitles
 youtu.be/TUJmSgViGoM bit 320
 ```
 
-<img width="251" alt="img-bitrate" src="https://github.com/andrewalevin/ytb2audiobot-view/assets/155118488/3c69c9f6-2e9d-4b44-90ad-f4bbcd0317cf">
+<img width="400" alt="img-bitrate-800" src="https://github.com/andrewalevin/ytb2audiobot-view/assets/155118488/b6e98d12-c172-4254-9c12-be341a49c58a">
 
 
 Для файла из примера получаются следюущие примеры 4 минутный клип:
