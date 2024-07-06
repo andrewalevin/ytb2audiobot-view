@@ -22,7 +22,7 @@ Send any youtube link to movie. Видео станет загружаться �
 
 После успешной обрботки и загрузки в телеграм диалоговое окно будет удалено
 
-#### 📣 Timecodes 
+### 📣 Timecodes 
 
 Если в описании ролика присутствуют таймкоды - они будут доабвлены в caption скаченного аудифайла
 
@@ -33,12 +33,9 @@ Send any youtube link to movie. Видео станет загружаться �
 ![photo-1-640](https://github.com/andrewalevin/ytb2audiobot-view/assets/155118488/989f29e7-03d9-46fe-a85d-764b4599d641)
 
 
-##### Hint 
-
-Tckb
 
 
-#### 🎏 Split param 
+### 🎏 Split param 
 
 split
 
@@ -68,7 +65,7 @@ youtu.be/TUJmSgViGoM split 25
 
 
 
-#### 🎶 Bitrate param 
+### 🎶 Bitrate param 
 
 subtitles
 
@@ -97,7 +94,7 @@ youtu.be/TUJmSgViGoM bit 320
   - 320k bitrate - 9.6 mb file size
 
 
-#### 📝 Subtitles param 
+### 📝 Subtitles param 
 
 subtitles
 
