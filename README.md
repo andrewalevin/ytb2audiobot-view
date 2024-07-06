@@ -60,9 +60,9 @@ subtitles
 
 ```
 youtu.be/TUJmSgViGoM bit 320
-
 ```
 
+<img width="251" alt="img-bitrate" src="https://github.com/andrewalevin/ytb2audiobot-view/assets/155118488/3c69c9f6-2e9d-4b44-90ad-f4bbcd0317cf">
 
 
 Для файла из примера получаются следюущие примеры 4 минутный клип:
