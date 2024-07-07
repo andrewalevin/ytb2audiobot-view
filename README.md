@@ -171,6 +171,19 @@ ytb2audiobot | tee -a stdout.log
 
 ```
 
+### 🤿 Техническая информация
+
+- Файлы скачиваются в папку datadir. Она создается в tempdir оперционной системы, а в текущей папке создается symlink для macos.
+
+   data-ytb2audiobot -> /var/folders/vd/_ygl4klj7cq01t8crn22rw7c0000gn/T/pip-ytb2audiobot-data
+
+
+
+
+## 🏂 Todo
+
+- Очереди для избежания flood youtube
+- 
 
 
 
