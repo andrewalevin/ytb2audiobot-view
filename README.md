@@ -145,7 +145,7 @@ nano .env
 
 ```bash
 
-TG_TOKEN_p='691erfre**** YOUR TELEGRAM TOKEN FROM BOT FATHER **********f343f4u4As'
+TG_TOKEN_p='*** YOUR TELEGRAM TOKEN FROM BOT FATHER ***'
 ```
 
 Run in production mode 
