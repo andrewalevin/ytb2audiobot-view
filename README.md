@@ -139,7 +139,7 @@ source venv/bin/activate
 ```
 
 
-
+Telegram token paste
 
 nano .env
 
@@ -148,7 +148,26 @@ nano .env
 TG_TOKEN_p='691erfre**** YOUR TELEGRAM TOKEN FROM BOT FATHER **********f343f4u4As'
 ```
 
+Run in production mode 
 
+Redirects all outputs to void 
+(stderr to stdout and stdout to /dev/null)
+
+```bash
+
+ytb2audiobot > /dev/null 2>&1
+
+```
+
+Run with in dev mode with log
+
+Show all std in terminal and save it to stdout.log file.
+
+```bash
+
+ytb2audiobot | tee -a stdout.log
+
+```
 
 
 
