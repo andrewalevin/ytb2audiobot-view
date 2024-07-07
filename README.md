@@ -124,6 +124,30 @@ youtu.be/TUJmSgViGoM bit 320
 **Как установить бот у себя на сервере?**
 
 
+Inside running directory 
+
+```bash
+
+mkdir ytb2audiobot
+
+cd ytb2audiobot
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+```
+
+
+
+
+nano .env
+
+```bash
+
+TG_TOKEN_p='691erfre**** YOUR TELEGRAM TOKEN FROM BOT FATHER **********f343f4u4As'
+```
+
 
 
 
